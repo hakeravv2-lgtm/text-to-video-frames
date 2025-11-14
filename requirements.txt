@@ -1,0 +1,8 @@
+gradio>=4.0
+diffusers[torch]>=0.20
+torch>=2.0
+torchvision
+imageio[ffmpeg]
+imageio-ffmpeg
+numpy
+pillow
